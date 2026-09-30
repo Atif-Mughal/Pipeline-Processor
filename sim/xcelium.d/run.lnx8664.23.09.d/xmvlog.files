@@ -1,0 +1,24 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+/home/cc/Downloads/Trace/Tracer3/sim/tracer_core/pkg.sv
+/home/cc/Downloads/Trace/Tracer3/sim/tracer_core/tracer_pkg.sv
+/home/cc/Downloads/Trace/Tracer3/sim/tracer_core/tracer.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/mux_2x1.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/mux_4x1.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/mux_16x1.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/mux.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/pipeline_reg2.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/pipeline_reg.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/forwarding_unit.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/alu_logic.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/branch_com.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/dm_signal.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/data_mem.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/imm_gen.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/inst_mem.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/program_counter.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/reg_file.sv
+/home/cc/Downloads/Trace/Tracer3/rtl/top.sv
+/home/cc/Downloads/Trace/Tracer3/tb/testbench.sv
